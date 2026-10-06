@@ -23,7 +23,7 @@ RouteOpt is a Python and Streamlit demonstration of how Design and Analysis of A
 
 ## Run on Windows
 
-For one-click startup, double-click **`Start-RouteOpt.bat`** in this folder. The first run creates a local virtual environment and installs dependencies if needed. Leave the command window open while using RouteOpt; press **Ctrl+C** in that window to stop the app.
+For one-click startup, double-click **`Start-RouteOpt.bat`** in this folder. If RouteOpt is already running, the launcher opens its dashboard. Otherwise, it reuses an available Python setup or creates a local virtual environment and installs dependencies if needed. Leave the command window open while using RouteOpt; press **Ctrl+C** in that window to stop the app.
 
 To start it manually, open PowerShell in this project directory and run:
 
