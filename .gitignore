@@ -1,0 +1,20 @@
+# Local runtime and generated Python files
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+
+# Local credentials and editor state
+.streamlit/secrets.toml
+.streamlit/credentials.toml
+.idea/
+.vscode/
+
+# ChatGPT project sync references and workspace instructions
+/sources/
+/AGENTS.md
+/output/pdf/RouteOpt_DAA_Project_Report.pdf
+
+# Windows/macOS noise
+Thumbs.db
+.DS_Store
